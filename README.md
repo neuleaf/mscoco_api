@@ -5,7 +5,7 @@ note：
 2. coco的annotation json文件把所有图像的标注信息都写到一起了（annotation_examples目录有示例）
 ```
 
-###拆分annotation json文件，每张图像单独存储为一个json文件。
+### 拆分annotation json文件，每张图像单独存储为一个json文件。
 `参考https://github.com/weiliu89/caffe/tree/ssd/data/coco`
 1. Download Images and Annotations from MSCOCO. By default, we assume the data is stored in $HOME/data/coco
 
